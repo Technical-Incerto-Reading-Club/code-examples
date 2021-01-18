@@ -5,6 +5,6 @@ See www.techincertoreadingclub.com/ for more details
 
 *Kickoff Session*
 
-/Kickoff Session
+[Code for Kickoff Session](Kickoff Session)
 
 
