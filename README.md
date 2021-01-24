@@ -8,3 +8,6 @@ See www.techincertoreadingclub.com/ for more details
 [Code for Kickoff Session](https://github.com/Technical-Incerto-Reading-Club/code-examples/tree/main/Kickoff%20Session)
 
 
+### External Links
+* [`fattails`](https://github.com/FergM/fattails): Python toolkit and Jupyter notebooks by [FergM](https://github.com/FergM)
+* [`StatisticalConsequencesOfFatTails`](https://github.com/MarcosCarreira/StatisticalConsequencesOfFatTails): Code and Links by [MarcosCarreira](https://github.com/MarcosCarreira)
