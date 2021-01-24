@@ -10,4 +10,4 @@ See www.techincertoreadingclub.com/ for more details
 
 ### External Links
 * [`fattails`](https://github.com/FergM/fattails): Python toolkit and Jupyter notebooks by [FergM](https://github.com/FergM)
-* [`StatisticalConsequencesOfFatTails`](https://github.com/MarcosCarreira/StatisticalConsequencesOfFatTails): Code and Links by [MarcosCarreira](https://github.com/MarcosCarreira)
+* [`StatisticalConsequencesOfFatTails`](https://github.com/MarcosCarreira/StatisticalConsequencesOfFatTails): Code and Links collected by [Marcos Carreira](https://github.com/MarcosCarreira)
